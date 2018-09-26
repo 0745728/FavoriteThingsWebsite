@@ -1,0 +1,33 @@
+* {
+text-align: center;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: orangered;
+}
+
+h3 {
+    color: orangered;
+}
+
+h4{
+    color: orangered;
+}
+
+body{
+    background-image: url(https://i2.wp.com/css-tricks.com/wp-content/uploads/2018/02/multiple-bg-images.jpg?resize=350%2C200&ssl=1)
+}
+
+img {
+    width: 500px;
+    height: 600px;
+}
+
+video {
+    width: 500px;
+    height: 700px;
+}
